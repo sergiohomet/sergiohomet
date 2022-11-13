@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **JavaScript**
 
-- 💬 Ask me about **HTML, CSS, SCSS**
+- 💬 Ask me about **HTML, SCSS, JS**
 
 - 📫 How to reach me **sergiohomet@gmail.com**
 
