@@ -1,9 +1,9 @@
 <h1 align="center">Hola, me llamo Sergio Homet</h1>
 <h3 align="center">Soy Frontend Developer que le apasiona trabajar en proyectos.</h3>
 
-- 🌱 Actualmente estoy aprendiendo **JavaScript**
+- 🌱 Actualmente estoy aprendiendo **REACT**
 
-- 💬 Ask me about **HTML, SCSS, JS**
+- 💬 Ask me about **HTML, SCSS, JS, REACT, TAILWIND**
 
 - 📫 How to reach me **sergiohomet@gmail.com**
 
