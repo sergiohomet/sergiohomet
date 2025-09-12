@@ -3,7 +3,7 @@ Desarrollador Front-End especializado en React y TypeScript, con experiencia en 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sergio-homet-herrera-618126213/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergiohomet@gmail.com) [![Descargar CV](https://img.shields.io/badge/Descargar_CV-purple)](./CV_Sergio_Homet.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sergio-homet-herrera-618126213/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sergiohomet@gmail.com) [![Descargar CV](https://img.shields.io/badge/Descargar_CV-purple)](https://github.com/sergiohomet/Curriculum-Vitae/blob/main/SergioHometCV.pdf)
 
 
 # 💻 Tech Stack:
