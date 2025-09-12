@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente trabajando en proyectos personales con React y TypeScript.<br>Busco colaborar en desarrollos Front-End.<br><br>Dato curioso: fui cajero/encargado en una estación de servicio, donde aprendí a resolver problemas bajo presión.
+Desarrollador Front-End especializado en React y TypeScript, con experiencia en la construcción de interfaces escalables y optimizadas para el rendimiento. Apasionado por la experiencia de usuario, buenas prácticas de código y el trabajo en equipo ágil.
 
 
 ## 🌐 Socials:
