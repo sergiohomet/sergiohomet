@@ -1,5 +1,5 @@
 # 💫 About Me:
-Actualmente trabajando en proyectos personales con React y TypeScript.<br>Busco colaborar en desarrollos Front-End.<br>Aprendiendo API REST y buenas prácticas en React.<br>Pregúntame sobre cómo unir habilidades técnicas con experiencia en atención al cliente.<br>Dato curioso: fui cajero/encargado en una estación de servicio, donde aprendí a resolver problemas bajo presión.
+Actualmente trabajando en proyectos personales con React y TypeScript.<br>Busco colaborar en desarrollos Front-End.<br><br>Dato curioso: fui cajero/encargado en una estación de servicio, donde aprendí a resolver problemas bajo presión.
 
 
 ## 🌐 Socials:
